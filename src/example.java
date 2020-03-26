@@ -1,8 +1,8 @@
 public class example {
 
     public static void main(String args[]){
-      double var1 = 20.00;
-      double var2 = 93.00;
+      double var1 = 20.00d;
+      double var2 = 93.00d;
       double var3 = (var1 + var2) * 100.00;
 
       double rem = var3 % 40.00;
